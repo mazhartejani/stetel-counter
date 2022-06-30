@@ -1,0 +1,44 @@
+.counter-wrapper {
+    background-color: #ffffff;
+    min-width: 28.125rem;
+    border-radius: 16px;
+}
+
+.counter-heading {
+    color: #1876fb;
+    font-size: 2.875rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0.3125rem;
+}
+
+.counter-value {
+    text-align: center;
+    color: #3bdde6;
+    font-size: 8rem;
+    margin: 0;
+}
+
+.counter-value-zero {
+    color: #F44336;
+}
+
+.buttons-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.25rem
+}
+
+.increment-reset-buttons {
+    background-color: #127afe;
+    border: none;
+    padding: 1rem 2rem;
+    color: #ffffff;
+    border-radius: 4px;
+    font-size: 16px;
+    min-width: 11.25rem
+}
+
+.increment-reset-buttons:active {
+    background-color: #0046f7;
+}
