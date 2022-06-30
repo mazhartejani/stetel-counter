@@ -3,9 +3,11 @@ body {
 }
 
 .container {
-  width: 800px;
+  width: 100%;
   margin: 2rem auto;
   display: flex;
   justify-content: center;
   align-items: center;
+  display: flex;
+  flex-direction: column;
 }

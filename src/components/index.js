@@ -1,3 +1,4 @@
 import { Counter } from "./counter";
+import { Jokes } from "./jokes";
 
-export {Counter}
+export {Counter, Jokes}

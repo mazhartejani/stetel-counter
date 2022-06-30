@@ -1,0 +1,14 @@
+.jokes-wrapper {
+    width: 60%;
+    padding: 2rem;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.joke-heading {
+    margin: 0;
+}
+
+.joke {
+    font-style: italic;
+}
